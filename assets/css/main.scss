@@ -1,0 +1,41 @@
+---
+# Only the front matter dashes are required for Jekyll to process this as Sass
+---
+
+@import "minimal-mistakes/skins/contrast"; // keep your chosen skin
+@import "minimal-mistakes";                // import the rest of the theme
+
+// ---- Custom overrides below ----
+
+// General link color
+a,
+a:visited {
+  color: #100068; // Replace with your preferred color
+}
+
+// Hover/focus state
+a:hover,
+a:focus {
+  color: #07002e; // Slightly darker tone for hover
+}
+
+/* ---------- Custom overrides to hide taxonomy (tags & categories) ---------- */
+.page__taxonomy,
+.post__taxonomy,
+.post-meta,
+.post__meta,
+.post-tags,
+.post-categories,
+.tags,
+.categories,
+.taxonomy,
+.page-footer__taxonomy,
+.entry-meta__categories,
+.entry-meta__tags {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
