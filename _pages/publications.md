@@ -1,0 +1,37 @@
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: false
+---
+
+Below is a list of selected publications.
+
+- A. G. Tavernarakis, R. Gutiérrez-Cuevas, L. Rondin, T. Antoni, S. M. Popoff, P. Verlot, *Wavefront shaping enhanced nano-optomechanics down to the quantum precision limit*, arXiv:2502.12358 (in review). [DOI](https://doi.org/10.48550/arXiv.2502.12358)
+- G. Pelc, S. Guterman, R. Gutiérrez-Cuevas, A. Goetschy, S. M. Popoff, Y. Bromberg, *Open Transmission Channels in Multimode Fiber Cavities with Random Mode Mixing*, Phys. Rev. Lett. **135** 173801 (2025). [PDF](/assets/papers/pelc2025open.pdf) • [DOI](https://doi.org/10.1103/fvvb-76nn)
+- R. Gutiérrez-Cuevas, S. M. Popoff, *Façonnage du front d'onde pour l'étude des milieux complexes*, Photoniques **135** 46-50 (2025). [PDF](/assets/papers/gutierrez2025faconnage.pdf) • [DOI](https://doi.org/10.1051/photon/202513246 )
+- R. Gutiérrez-Cuevas, D. Bouchet, J. de Rosny, S. M. Popoff, *Reaching the precision limit with tensor-based wavefront shaping*, Nat. Commun. **15** 6319 (2024). [PDF](/assets/papers/gutierrez2024reaching.pdf) • [DOI](https://doi.org/10.1038/s41467-024-50513-8)
+- R. Gutiérrez-Cuevas, A. Goetschy, G. Pelc, E. Ravn Andresen, L. Bigot, Y. Quiquempois, M. Bsaibes, P. Sillard, M. Bigot, J. de Rosny, S. M. Popoff, *Characterization and exploitation of the rotational memory effect in multimode fibers*, Phys. Rev. X **14** 031046 (2024). [PDF](/assets/papers/gutierrez2024characterization.pdf) • [DOI](https://doi.org/10.1103/PhysRevX.14.031046)
+- S. M. Popoff, Y. Bromberg, M. W. Matthès, R. Gutiérrez-Cuevas, *A practical guide to Digital Micro-mirror Devices (DMDs) for wavefront shaping*, J. Phys. Photonics **6** 043001 (2024).
+- R. Gutiérrez-Cuevas, S. M. Popoff, *Binary holograms for shaping light with digital micromirror devices*, J. Phys. Photonics **6** 045022 (2024). [PDF](/assets/papers/gutierrez2024binary.pdf) • [DOI](https://doi.org/10.1088/2515-7647/ad8617)
+- S. Vo, R. Gutiérrez-Cuevas, M. A. Alonso, *Closed forms for spatiotemporal optical vortices and sagittal skyrmionic pulses*, J. Opt. **26** 0956076 (2024). [PDF](/assets/papers/vo2024closed.pdf) • [DOI](https://doi.org/10.1088/2040-8986/ad6a26)
+- R. Gutiérrez-Cuevas, L. A. Alemán-Castañeda, I. Herrera, S. Brasselet, M. A. Alonso, *Vectorial phase retrieval in super-resolution polarization microscopy*, APL Photonics **9** 026106 (2024). [PDF](/assets/papers/gutierrez2024vectorial.pdf) • [DOI](https://doi.org/10.1063/5.0179906)
+- R. Gutiérrez-Cuevas, M. R. Dennis, M. A. Alonso, *Ray and caustic structure of Ince-Gauss beams*, New J. Phys. **26** 013011 (2024). [PDF](/assets/papers/gutierrez2024ray.pdf) • [DOI](https://doi.org/10.1088/1367-2630/ad17dc)
+- R. Shekel, O. Lib, R. Gutiérrez-Cuevas, S. M. Popoff, A. Ling, Y. Bromberg, *Shaping single photons through multimode optical fibers using mechanical perturbations*, APL Photonics **8** 096109 (2023). [PDF](/assets/papers/shekel2023shaping.pdf) • [DOI](https://doi.org/10.1063/5.0161654)
+- R. Gutiérrez-Cuevas, D. H. J. O'Dell, M. R. Dennis, M. A. Alonso, *Exactly solvable model behind Bose-Hubbard dimers, Ince-Gauss beams, and aberrated optical cavities*, Phys. Rev. A **107** L031502 (2023). [PDF](/assets/papers/gutierrez2023exactly.pdf) • [DOI](https://doi.org/10.1103/PhysRevA.107.L031502)
+- L. A. Alem\'an-Casta\~neda, S. Yi-Ting Feng, R. Gutiérrez-Cuevas, I. Herrera, T. G. Brown, S. Brasselet, M. A. Alonso, *Using fluorescent beads to emulate single fluorophores*, J. Opt. Soc. Am. A **39** C167 (2022). [PDF](/assets/papers/aleman2022using.pdf) • [DOI](https://doi.org/10.1364/josaa.474837)
+- R. Gutiérrez-Cuevas, M. A Alonso, *Analytic treatment of nonparaxial full-Poincaré fields: singularity structure and trapping properties*, J. Opt. **23** 024005 (2021). [PDF](/assets/papers/gutierrez2021analytic.pdf) • [DOI](https://doi.org/10.1088/2040-8986/abe01f)
+- R. Gutiérrez-Cuevas, E. Pisanty, *Optical polarization skyrmionic fields in free space*, J. Opt. **23** 024004 (2021). [PDF](/assets/papers/gutierrez2021optical.pdf) • [DOI](https://doi.org/10.1088/2040-8986/abe8b2)
+- R. Gutiérrez-Cuevas, M. A. Alonso, *Platonic Gaussian beams: wave and ray treatment*, Opt. Lett. **45** 6759 (2020). [PDF](/assets/papers/gutierrez2020platonic.pdf) • [DOI](https://doi.org/10.1364/OL.405988)
+- R. Gutiérrez-Cuevas, S. A. Wadood, A. N. Vamivakas, M. A. Alonso, *Modal Majorana Sphere and Hidden Symmetries of Structured-Gaussian Beams*, Phys. Rev. Lett. **125** 123903 (2020). [PDF](/assets/papers/gutierrez2020modal.pdf) • [DOI](https://doi.org/10.1103/physrevlett.125.123903)
+- R. Gutiérrez-Cuevas, M. R. Dennis, M. A. Alonso, *Generalized Gaussian beams in terms of Jones vectors*, J. Opt. **21** 084001 (2019). [PDF](/assets/papers/gutierrez2019generalized.pdf) • [DOI](https://doi.org/10.1088/2040-8986/ab2c52)
+- T. Malhotra, R. Gutiérrez-Cuevas, J. Hassett, M. R. Dennis, A. N. Vamivakas, M. A. Alonso, *Measuring Geometric Phase without Interferometry*, Phys. Rev. Lett. **120** 233602 (2018). [PDF](/assets/papers/malhotra2018measuring.pdf) • [DOI](https://doi.org/10.1103/physrevlett.120.233602)
+- R. Gutiérrez-Cuevas, N. J. Moore, M. A. Alonso, *Lorenz-Mie scattering of focused light via complex focus fields: An analytic treatment*, Phys. Rev. A **97** 053848 (2018). [PDF](/assets/papers/gutierrez2018lorenz.pdf) • [DOI](https://doi.org/10.1103/physreva.97.053848)
+- R. Gutiérrez-Cuevas, M. A. Alonso, *Complete confined bases for beam propagation in Cartesian coordinates*, J. Opt. Soc. Am. A **34** 1697 (2017). [PDF](/assets/papers/gutierrez2017complete.pdf) • [DOI](https://doi.org/10.1364/josaa.34.001697)
+- R. Gutiérrez-Cuevas, M. A. Alonso, *Polynomials of Gaussians and vortex-Gaussian beams as complete, transversely confined bases*, Opt. Lett. **42** 2205 (2017). [PDF](/assets/papers/gutierrez2017polynomials.pdf) • [DOI](https://doi.org/10.1364/ol.42.002205)
+- R. Gutiérrez-Cuevas, M. A. Alonso, *Scalar and electromagnetic nonparaxial bases composed as superpositions of simple vortex fields with complex foci*, Opt. Express **25** 14856 (2017). [PDF](/assets/papers/gutierrez2017scalar.pdf) • [DOI](https://doi.org/10.1364/oe.25.014856)
+- J. H. Eberly, X. F. Qian, A. A. Qasimi, H. Ali, M. A. Alonso, R. Gutiérrez-Cuevas, B. J. Little, J. C. Howell, T. Malhotra, A. N. Vamivakas, *Quantum and classical optics--emerging links*, Phys. Scrip. **91** 063003 (2016). [PDF](/assets/papers/gutierrez2016quantum.pdf) • [DOI](https://doi.org/10.1088/0031-8949/91/6/063003)
+- R. Gutiérrez-Cuevas, *Theory of storage and retrieval of intense-broadband pulses at room temperature: analytical and numerical solutions*, arXiv:1605.06870 (2016). [DOI](https://doi.org/10.48550/arXiv.1605.06870)
+- R. Gutiérrez-Cuevas, J. H. Eberly, *Vector-soliton storage and three-pulse-area theorem*, Phys. Rev. A **94** 013820 (2016). [PDF](/assets/papers/gutierrez2016vector.pdf) • [DOI](https://doi.org/10.1103/PhysRevA.94.013820)
+- R. Gutiérrez-Cuevas, J. H. Eberly, *Multipulse storage and manipulation via solitonic solutions*, J. Opt. Soc. Am. B **32** 2271--2280 (2015). [PDF](/assets/papers/gutierrez2015multipulse.pdf) • [DOI](https://doi.org/10.1364/JOSAB.32.002271)
+- R. Gutiérrez-Cuevas, J. H. Eberly, *Manipulation of optical-pulse-imprinted memory in a $\Lambda$ system*, Phys. Rev. A **92** 033804 (2015). [PDF](/assets/papers/gutierrez2015manipulation.pdf) • [DOI](https://doi.org/10.1103/PhysRevA.92.033804)
