@@ -23,7 +23,7 @@ classes: wide
     max-width: 800px;
   ">
     <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">Structuring Light's Propagation</h1>
-    <p style="font-size: 1.2rem; font-weight: 300;">Controlling light–matter interactions by shaping light</p>
+    <p style="font-size: 1.2rem; font-weight: 300;">Shaping light to control light–matter interactions</p>
   </div>
 </div>
 
@@ -106,7 +106,7 @@ classes: wide
 </style>
 
 
-**Structuring Light's propagation** is an experimental and theoretical group at the LuMIn laboratory at the [Paris-Saclay University](https://www.universite-paris-saclay.fr/), [ENS Paris-Saclay](https://ens-paris-saclay.fr/) and [Centrale Supélec](https://www.centralesupelec.fr/). 
+**Structuring Light's propagation** is an experimental and theoretical group at the LuMIn laboratory which is based at the [Paris-Saclay University](https://www.universite-paris-saclay.fr/), [ENS Paris-Saclay](https://ens-paris-saclay.fr/) and [Centrale Supélec](https://www.centralesupelec.fr/). 
 We aim at studying and harnessing structured light for various applications, ranging from controlling its propagation in complex media to developing super-resolution imaging techniques. 
 Our work integrates experimental optics, computational methods, and theory to control and understand structured light.
 The group is led by Dr. Rodrigo Gutiérrez-Cuevas, an Associate Professor at Paris-Saclay University. 
