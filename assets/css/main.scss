@@ -7,6 +7,35 @@
 
 // ---- Custom overrides below ----
 
+// /* Ensure full-width content layout */
+// .layout--single .page,
+// .layout--single .page__inner-wrap,
+// .layout--single .page__content,
+// .layout--single .archive {
+//   max-width: min(90vw, 1300px) !important;
+//   margin-left: auto !important;
+//   margin-right: auto !important;
+// }
+
+// /* Remove author-profile sidebar space */
+// .layout--single .page__content {
+//   grid-column: 1 / -1 !important;
+//   width: 100% !important;
+// }
+
+// /* Make overlay/hero images span full width */
+// .page__hero--overlay {
+//   width: 100vw !important;
+//   margin-left: calc(50% - 50vw) !important;
+// }
+
+// /* Add a bit of space below the hero image */
+// .page__content {
+//   margin-top: 2rem !important;
+// }
+
+
+
 // General link color
 a,
 a:visited {
@@ -38,4 +67,62 @@ a:focus {
   margin: 0 !important;
   padding: 0 !important;
   border: none !important;
+}
+
+
+// /* --- Override Minimal Mistakes container width --- */
+// .page,
+// .page__content,
+// .page__inner-wrap {
+//   max-width: min(90vw, 1300px) !important; /* scales smoothly */
+//   margin-left: auto;
+//   margin-right: auto;
+// }
+
+// /* Optional: wider text area */
+// .page__content {
+//   width: 100%;
+// }
+
+// /* Prevent sidebar space from being reserved when author_profile = false */
+// .layout--single .page__content {
+//   grid-column: 1 / -1 !important;
+// }
+
+
+/* === SIDE FIGURE BLOCKS === */
+.side-figure {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.side-figure img {
+  flex: 0 0 40%;
+  max-width: 400px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.side-figure .text {
+  flex: 1;
+  min-width: 250px;
+}
+
+/* Alternate left/right automatically */
+.side-figure:nth-of-type(even) {
+  flex-direction: row-reverse;
+}
+
+/* Stack vertically on narrow screens */
+@media (max-width: 768px) {
+  .side-figure {
+    flex-direction: column !important;
+  }
+  .side-figure img {
+    width: 100%;
+    max-width: none;
+  }
 }
