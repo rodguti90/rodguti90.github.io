@@ -2,7 +2,7 @@
 title: "New publication in Photoniques, the SFO journal."
 categories: [highlights, publications]
 tags: [paper, structured-light]
-excerpt: "In this invited paper we introduce the different technoligies that are commonly used for controlling light's propagation in compelx media."
+excerpt: "In this invited paper we introduce the different technologies that are commonly used for controlling light's propagation in complex media."
 thumbnail: /assets/images/highlights/paper-gutierrez2025faconnage.png
 ---
 

@@ -2,7 +2,7 @@
 title: "New publication in PRL"
 categories: [highlights, publications]
 tags: [paper, PRL, structured-light]
-excerpt: "We demonstrate the existence of open transmission channels in multimode miber cavities with random mode mixing"
+excerpt: "We demonstrate the existence of open transmission channels in multimode fiber cavities with random mode mixing"
 thumbnail: /assets/images/highlights/paper-pelc2025open.jpg
 ---
 
